@@ -1,0 +1,11 @@
+When using bot in console. Type .mines (round id) can find round id when starting a game and click “fairness”
+commands that work:
+.mines (round id)
+.towers (round id)
+.crash (round id)
+.cups (round id)
+.jackpot (round id)
+
+I WOULD RECCOMEND ONLY USING MINES AS OF NOW! This is in beta and is amount 90% accurate. (more accurate then most paid predictors)
+
+HAVE FUN!
