@@ -3,4 +3,4 @@ This is A New BloxFlip Predictor that works in console and Can predict, Mines, T
 
 # Note 
 WE HAVE BEEN BOMBED WITH FAKE ISSUES, I assure you this is legit. A scammer is trying to say that it is fake.
-# UPDATED to 11/19/22
+# FUD | Updated | 4/1/2023
